@@ -10,6 +10,9 @@ public class FirstProgram {
 		
 		System.out.print(10+20);
 		System.out.print(10+30);
+		
+		//Base b1 = new Base();
+		
 	}
 
 }
